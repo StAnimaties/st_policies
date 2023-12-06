@@ -1,5 +1,5 @@
-When using games such as: Keynode, A Not so silent night
+When using games such as: "Keynode", "A Not so silent night"
 You agree that you're giving no data to StAnimaties,
-No Data will be collected.
+And no Data will be Collected, Shared, or Stored.
 
-All user data is stored on the device and can be deleted by deleting the app itself.
+All data of the user is stored on the device and can be deleted by deleting the app itself.
