@@ -1,4 +1,5 @@
 When using games such as: "Keynode", "A Not so silent night"
+
 You agree that you're giving no data to StAnimaties,
 And no Data will be Collected, Shared, or Stored.
 
